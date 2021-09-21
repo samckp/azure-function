@@ -1,3 +1,5 @@
 # azure-examples
 
-Azure function example
+Azure function example.
+
+http://localhost:7071/api/HttpExample?name=amit
